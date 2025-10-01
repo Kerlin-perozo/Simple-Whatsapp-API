@@ -9,7 +9,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:3000',
+      url: 'https://simple-whatsapp-api.kp7b0h3vueu5g.ap-south-1.cs.amazonlightsail.com',
       description: 'Development server',
     },
   ],
